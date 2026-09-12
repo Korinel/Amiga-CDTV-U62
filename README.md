@@ -1,5 +1,5 @@
 # Amiga-CDTV-U62
-
+![alt text](U62.png)
 ## What is the U62?
 
 The U62 is the Commodore CDTV's front-panel and system controller: a Sanyo
